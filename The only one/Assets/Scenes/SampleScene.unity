@@ -390,7 +390,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd6be12edda756b4eab2e4224525a3e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.01
+  speed: 0.05
   direction: {x: 0.1, y: 0}
 --- !u!212 &119282644
 SpriteRenderer:
@@ -489,7 +489,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd6be12edda756b4eab2e4224525a3e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.01
+  speed: 0.05
   direction: {x: 0.1, y: 0}
 --- !u!212 &132285777
 SpriteRenderer:
@@ -952,7 +952,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd6be12edda756b4eab2e4224525a3e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.01
+  speed: 0.05
   direction: {x: 0.1, y: 0}
 --- !u!212 &266882959
 SpriteRenderer:
@@ -1332,7 +1332,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd6be12edda756b4eab2e4224525a3e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.01
+  speed: 0.05
   direction: {x: 0.1, y: 0}
 --- !u!212 &340206821
 SpriteRenderer:
@@ -2383,7 +2383,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd6be12edda756b4eab2e4224525a3e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.01
+  speed: 0.05
   direction: {x: 0.1, y: 0}
 --- !u!212 &1254469780
 SpriteRenderer:
@@ -2788,7 +2788,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd6be12edda756b4eab2e4224525a3e1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.01
+  speed: 0.05
   direction: {x: 0.1, y: 0}
 --- !u!212 &1741141875
 SpriteRenderer:

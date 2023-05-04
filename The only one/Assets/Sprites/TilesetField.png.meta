@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -141,10 +141,10 @@ TextureImporter:
       name: TilesetField_1
       rect:
         serializedVersion: 2
-        x: 1
-        y: 50
-        width: 46
-        height: 46
+        x: 16
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,9 +184,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 64
-        width: 32
-        height: 32
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -414,10 +414,10 @@ TextureImporter:
       name: TilesetField_14
       rect:
         serializedVersion: 2
-        x: 1
-        y: 2
-        width: 46
-        height: 46
+        x: 16
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,9 +457,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 16
-        width: 32
-        height: 32
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -673,32 +673,32 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      TilesetField_0: -1523798603
       TilesetField_1: 1815890925
-      TilesetField_6: 1003523292
-      TilesetField_17: -702357670
-      TilesetField_4: 1834135863
-      TilesetField_14: 692546325
-      TilesetField_2: -1200349807
-      TilesetField_5: -1566999490
+      TilesetField_10: -839384971
+      TilesetField_11: -1893733001
       TilesetField_12: 1600537595
       TilesetField_13: -1031557499
-      TilesetField_9: -1578868213
-      TilesetField_7: 1490188048
-      TilesetField_23: -644686901
+      TilesetField_14: 692546325
+      TilesetField_15: -1445336996
+      TilesetField_16: 507090014
+      TilesetField_17: -702357670
+      TilesetField_18: -458357436
       TilesetField_19: -675437913
-      TilesetField_3: -428214751
-      TilesetField_8: 188511142
+      TilesetField_2: -1200349807
+      TilesetField_20: -366673534
+      TilesetField_21: -680339756
+      TilesetField_22: 2014355576
+      TilesetField_23: -644686901
       TilesetField_24: 1611451815
       TilesetField_25: 256065290
-      TilesetField_20: -366673534
-      TilesetField_10: -839384971
-      TilesetField_18: -458357436
-      TilesetField_15: -1445336996
-      TilesetField_22: 2014355576
-      TilesetField_0: -1523798603
-      TilesetField_21: -680339756
-      TilesetField_16: 507090014
-      TilesetField_11: -1893733001
+      TilesetField_3: -428214751
+      TilesetField_4: 1834135863
+      TilesetField_5: -1566999490
+      TilesetField_6: 1003523292
+      TilesetField_7: 1490188048
+      TilesetField_8: 188511142
+      TilesetField_9: -1578868213
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
